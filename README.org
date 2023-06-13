@@ -1,0 +1,10 @@
+* skippy-renderer
+
+GIF renderer for SKIPPY
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/phoe/skippy-renderer.git   |
+| commit  | 08159a6  |
+| systems | skippy-renderer |
+|---------+-------------------------------------------|
+
