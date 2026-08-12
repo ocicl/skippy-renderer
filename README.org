@@ -8,4 +8,4 @@ GIF renderer for SKIPPY
 | systems | skippy-renderer |
 |---------+-------------------------------------------|
 
- 
+  
